@@ -7,3 +7,5 @@ Included is the jupyter-notebook to generate the figures and a file to fit the m
 Standard python packages such as numpy,scipy and matplotlib are required.
 
 Install by cloning this repository into a local environment that includes a python installation.
+
+The folder is structured in such a way that the jupyter-notebook and code should be able to access the provided processed data without any further alterations.
