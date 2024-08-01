@@ -1,7 +1,0 @@
-cell_1:2019_11_27 Cell 1
-cell_2:2019_11_27 Cell 2
-cell_3:2019_11_27 Cell 3
-cell_4:2019_11_27 Cell 4
-cell_5:2019_11_27 Cell 5
-cell_6:2021_9_8 CA1 cell 3
-cell_7:2021_9_8 CA1 cell 4
